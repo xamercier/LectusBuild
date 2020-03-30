@@ -1,0 +1,5 @@
+name: LectusBuild
+version: 1.0
+authors: [xamercier, com002]
+main: net.lectusBUILD.MainLectusBuild
+depend: [LectusAPI]
